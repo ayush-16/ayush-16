@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush-16
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently working on Kotlin Micronaut
 - 💞️ I’m looking to collaborate on any project related to web domain
 - 📫 How to reach me? Try https://www.linkedin.com/in/ayush-sharma-617917163/
 
